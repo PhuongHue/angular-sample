@@ -1,0 +1,16 @@
+:host {
+    display: flex;
+    background: gray;
+    height: 100vh;
+}
+app-menu-side-bar {
+   min-width: 230px; 
+  background: yellow;
+  
+}
+
+app-container {
+    flex: 4;
+    background: yellowgreen; 
+    position: relative; 
+}
