@@ -22,7 +22,7 @@ export class FileComponent {
   }
   checkFile(checkbox){
       if(this.check === false){
-        this.check =true;
+        this.check =true; 
         checkbox = this.check;
       }
       else{
